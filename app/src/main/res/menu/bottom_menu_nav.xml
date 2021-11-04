@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_profile"
+        android:title="@string/menu_perfil"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_account_circle_24"/>
+    <item
+        android:id="@+id/action_cinema"
+        android:title="@string/menu_cinemas"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_house_siding_24"/>
+    <item
+        android:id="@+id/action_cartelera"
+        android:title="@string/cartelera"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_local_movies_24"/>
+</menu>

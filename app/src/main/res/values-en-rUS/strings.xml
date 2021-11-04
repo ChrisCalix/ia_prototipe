@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IAInteractive_demo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_perfil">Profile</string>
+    <string name="menu_cinemas">Premier</string>
+    <string name="hint_user">User</string>
+    <string name="hint_pass">Password</string>
+    <string name="action_iniciar_sesion">LOGIN</string>
+    <string name="text_title">title</string>
+    <string name="tittle_perfil">profile</string>
+    <string name="text_bienvenido">welcome:</string>
+    <string name="text_email">Email:</string>
+    <string name="text_card_number">Card number</string>
+    <string name="action_transaction">get transaction</string>
+    <string name="cartelera">Billboard</string>
+    <string name="title_cinema">Premier</string>
+</resources>
